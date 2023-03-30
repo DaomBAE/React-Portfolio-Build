@@ -5,7 +5,7 @@ function App() {
     <h2>This is Daom Bae</h2>
     <h3>My favorite coffee is De Costa Rica ☕ </h3>
     <h3>I want to be a millionaire</h3>
-    <h4>Thank you for watching</h4>
+    <h1>Thank you for watching</h1>
   </div>
   );
 }
